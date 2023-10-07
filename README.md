@@ -26,11 +26,11 @@ To get started with the Retail Customer Segmentation Project, follow these steps
 
 1.Clone the project repository to your local machine:
 
-git clone <repository-url>
+```git clone <repository-url>```
 
 2.Install the required dependencies by running:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3.Run the Jupyter notebooks provided in the project to perform data analysis, clustering, and visualization.
 
@@ -42,13 +42,13 @@ This project is maintained by Jerry Lai. Contributions are welcome from the open
 
 1.Fork the repository to your GitHub account.
 2.Create a new branch for your feature or bug fix:
-git checkout -b feature/your-feature-name
+```git checkout -b feature/your-feature-name```
 
 3.Make your changes and commit them:
-git commit -m "Description of your changes"
+```git commit -m "Description of your changes"```
 
 4.Push your changes to your GitHub repository:
-git push origin feature/your-feature-name
+```git push origin feature/your-feature-name```
 
 5.Open a pull request on the main project repository, describing your changes and their purpose.
 Your contributions will be reviewed, and if they align with the project's goals, they will be merged into the main branch.
