@@ -2,11 +2,11 @@
 
 
 <h2>Table of Contents</h2>
-Overview
-Usage
-Getting Started
-Contributing
-Support
+- [Overview](#overview)
+- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [Support](#support)
 
 <h2>Overview</h2>
 <h3>What the project does?</h3>
