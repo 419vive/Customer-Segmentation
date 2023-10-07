@@ -30,7 +30,7 @@ To get started with the Retail Customer Segmentation Project, follow these steps
 
 1.Clone the project repository to your local machine:
 
-```git clone <repository-url>```
+```git clone https://github.com/419vive/Customer-Segmentation.git```
 
 2.Install the required dependencies by running:
 
