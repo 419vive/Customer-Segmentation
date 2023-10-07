@@ -2,13 +2,13 @@
 
 
 <h2>Table of Contents</h2>
-- [Overview](#overview)
-- [Usage](#usage)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Support](#support)
+- <a href="#overview">Overview</a>
+- <a href="#usage">Usage</a>
+- <a href="#getting-started">Getting Started</a>
+- <a href="#contributing">Contributing</a>
+- <a href="#support">Support</a>
 
-<h2>overview<a name="overview"></a></h2>
+<h2><a name="overview"></a>Overview</h2>
 
 <h3>What the project does?</h3>
 The Retail Customer Segmentation Project is a data science project that analyzes customer data to segment them into distinct groups based on their purchasing behavior. It uses the RFM (Recency, Frequency, Monetary) model to classify customers into different clusters, helping businesses gain insights into their customer base. This project involves data preprocessing, exploratory data analysis (EDA), and machine learning techniques such as K-Means clustering.
@@ -21,7 +21,7 @@ This project is useful for businesses in the retail industry to better understan
 *Optimize marketing efforts by focusing on the right customer segments.
 *Improve overall customer satisfaction and loyalty.
 
-<h2>Usage<a name="Usage"></a></h2>
+<h2><a name="usage"></a>Usage</h2>
 <h3>How users can get started with the project?</h3>
 To get started with the Retail Customer Segmentation Project, follow these steps:
 
@@ -37,7 +37,7 @@ To get started with the Retail Customer Segmentation Project, follow these steps
 
 4.Customize the project to fit your specific retail dataset by modifying the data preprocessing and analysis steps.
 
-<h2>Contributing</h2>
+<h2><a name="Contributing"></a>Contributing</h2>
 <h3>Who maintains and contributes to the project?</h3>
 This project is maintained by Jerry Lai. Contributions are welcome from the open-source community. If you would like to contribute, please follow these steps:
 
@@ -55,7 +55,7 @@ This project is maintained by Jerry Lai. Contributions are welcome from the open
 5.Open a pull request on the main project repository, describing your changes and their purpose.
 Your contributions will be reviewed, and if they align with the project's goals, they will be merged into the main branch.
 
-<h2>Support</h2>
+<h2><a name="Support"></a>Support</h2>
 <h3>Where users can get help with your project?</h3>
 If you need assistance or have any questions about the Retail Customer Segmentation Project, please feel free to reach out to me through the following channels:
 
