@@ -2,11 +2,11 @@
 
 
 <h2>Table of Contents</h2>
-<a href="#overview">Overview</a>
-<a href="#usage">Usage</a>
-<a href="#getting-started">Getting Started</a>
-<a href="#contributing">Contributing</a>
-<a href="#support">Support</a>
+<p><a href="#overview">Overview</a></p>
+<p><a href="#usage">Usage</a></p>
+<p><a href="#getting-started">Getting Started</a></p>
+<p><a href="#contributing">Contributing</a></p>
+<p><a href="#support">Support</a></p>
 
 <h2><a name="overview"></a>Overview</h2>
 
