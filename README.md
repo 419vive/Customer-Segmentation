@@ -22,7 +22,8 @@ This project is useful for businesses in the retail industry to better understan
 *Improve overall customer satisfaction and loyalty.
 
 <h2><a name="usage"></a>Usage</h2>
-<h3>How users can get started with the project?</h3>
+<h3><a name="getting-started"></a>How users can get started with the project?</h3>
+
 To get started with the Retail Customer Segmentation Project, follow these steps:
 
 1.Clone the project repository to your local machine:
