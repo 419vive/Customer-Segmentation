@@ -10,6 +10,7 @@
 
 <h2><a name="overview"></a>Overview</h2>
 
+
 <h3>What the project does?</h3>
 The Retail Customer Segmentation Project is a data science project that analyzes customer data to segment them into distinct groups based on their purchasing behavior. It uses the RFM (Recency, Frequency, Monetary) model to classify customers into different clusters, helping businesses gain insights into their customer base. This project involves data preprocessing, exploratory data analysis (EDA), and machine learning techniques such as K-Means clustering.
 
@@ -23,6 +24,7 @@ This project is useful for businesses in the retail industry to better understan
 
 <h2><a name="usage"></a>Usage</h2>
 <h3><a name="getting-started"></a>How users can get started with the project?</h3>
+
 
 To get started with the Retail Customer Segmentation Project, follow these steps:
 
