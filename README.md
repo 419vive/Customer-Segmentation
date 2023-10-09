@@ -63,7 +63,7 @@ Your contributions will be reviewed, and if they align with the project's goals,
 If you need assistance or have any questions about the Retail Customer Segmentation Project, please feel free to reach out to me through the following channels:
 
 GitHub Issues: Report any issues or bugs you encounter.
-[Email]: Contact me at 419vive@gmail.com for project-related inquiries.
+Email: Contact me at 419vive@gmail.com for project-related inquiries.
 I am here to help you make the most of this project and answer any queries you may have.
 
 
