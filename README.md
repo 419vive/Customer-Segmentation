@@ -17,10 +17,10 @@ The Retail Customer Segmentation Project is a data science project that analyzes
 <h3>Why the project is useful?</h3>
 This project is useful for businesses in the retail industry to better understand their customers' behavior and tailor marketing and sales strategies accordingly. By segmenting customers, businesses can:
 
-*Identify high-value customers and target them with personalized offers.
-*Recognize at-risk customers and take measures to retain them.
-*Optimize marketing efforts by focusing on the right customer segments.
-*Improve overall customer satisfaction and loyalty.
+<p>*Identify high-value customers and target them with personalized offers.</p>
+<p>*Recognize at-risk customers and take measures to retain them.</p>
+<p>*Optimize marketing efforts by focusing on the right customer segments.</p>
+<p>*Improve overall customer satisfaction and loyalty.</p>
 
 <h2><a name="usage"></a>Usage</h2>
 <h3><a name="getting-started"></a>How users can get started with the project?</h3>
